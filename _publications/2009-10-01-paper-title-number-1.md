@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/introducing-the-gab-hate-corpus
+excerpt: 'This paper introduces the Gab Hate Corpus, a large-scale dataset for hate-based rhetoric analysis.'
+date: 2022-01-01
+venue: 'Language Resources and Evaluation'
+paperurl: 'https://link.springer.com/article/...'
+citation: 'B Kennedy, M Atari, AM Davani, L Yeh, A Omrani, Y Kim, K Coombs, et al. (2022). &quot;Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale.&quot; <i>Language Resources and Evaluation</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper introduces the Gab Hate Corpus, a comprehensive dataset for hate-based rhetoric analysis.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/article/...)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: B Kennedy, M Atari, AM Davani, L Yeh, A Omrani, Y Kim, K Coombs, et al. (2022). "Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale." <i>Language Resources and Evaluation</i>.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Ali Omrani
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ I am a Ph.D. candidate at the Computer Science Department of University of Southern California (USC) where I am a member of the Computational Social Science Laboratory (CSSL), advised by Prof. Morteza Dehghani. 
+
+I strive to understand machine learning pipelines in the context of the larger socio-technical system they're embebedded into. Specifically, I'm interested in understanding and mitigating the unwanted effects of dataset biases on downstream machine learning applications. I'm also interested in applying machine learning for social scientific purposes. My research often involves building NLP solutions motivated by a social psychological research question to gain insight into our online behavior.
+
+Prior to CSSL, I finished my B.Sc. in computer engineering (majoring in software) at the Department of Electrical and Computer Engineering, University of Tehran in August 2019. I tried to use my bachelor's to build a solid bedrock for my future research. So in addition to taking many optional graduate-level courses on math and computer science, I started by investigating the Call Data Records of Iran’s top mobile operators at the Data Science Laboratory at the University of Tehran as a keen freshman. Then, trying to stay at the edge of research, I spent the 2017 summer at Fraunhofer IDMT in Germany researching on the applications of Deep Learning to Music Information Retrieval. After Fraunhofer, following my passion to better understand human behavior, I spent a year as a Research Assistant at the Cognitive Systems Laboratory at the University of Tehran where I compeleted my thesis on utilizing attention mechansim in neural networks and won the Best Thesis Award for it.
+
+During my bachelors, I was also affiliated with RoboCup Asia-Pacific (RCAP) 2018, a super-regional headquarter representing the RoboCup Federation, coordinating RoboCup activities in the Asia Pacific region. Before joining University of Tehran, I was a high school student at the Allameh Helli Highschool which is affiliated with NODET.
 
 A data-driven personal website
 ======

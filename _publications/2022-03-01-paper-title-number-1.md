@@ -1,0 +1,14 @@
+---
+title: "Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale"
+collection: publications
+permalink: /publication/2022-03-01-paper-title-number-1
+excerpt: 'The Gab Hate Corpus (GHC) contains 27,665 posts from gab.com, annotated for &quot;hate-based rhetoric&quot; by three or more annotators. It includes hierarchical labels for dehumanizing and violent speech, targeted groups, and rhetorical framing. The GHC enhances existing hate speech datasets with a large, representative collection of richly annotated social media posts'
+date: 2022-03-01
+venue: 'Language Resources and Evaluation'
+paperurl: 'https://par.nsf.gov/servlets/purl/10322251'
+---
+The Gab Hate Corpus (GHC) contains 27,665 posts from gab.com, annotated for &quot;hate-based rhetoric&quot; by three or more annotators. It includes hierarchical labels for dehumanizing and violent speech, targeted groups, and rhetorical framing. The GHC enhances existing hate speech datasets with a large, representative collection of richly annotated social media posts
+
+[Download paper here](https://par.nsf.gov/servlets/purl/10322251)
+
+Recommended citation: Kennedy, Brendan, et al. "Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale." Language Resources and Evaluation (2022): 1-30.

@@ -12,10 +12,10 @@ redirect_from:
  I am a Ph.D. candidate at the Computer Science Department of University of Southern California (USC) where I am a member of the Morality and Language Laboratory (MOLA), advised by Prof. Morteza Dehghani. 
 
 I strive to understand machine learning pipelines in the context of the larger socio-technical system they're embedded into. My research has predominantly focused on mitigating problematic content in the digital realm. I've addressed diverse technical challenges to reduce online problematic content, whether it stems from human users or machine-generated models. A core component of my work is acknowledging the societal roots of this issue by advocating for and pursuing approaches informed by social science theories. 
-
-<p align="center">
-  <img src="../images/research_lines.jpg" alt="Overview of My Research on Mitigating Problematic Content in Digital Sphere">
-</p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../images/researchlines-1.jpg" alt="Overview of My Research on Mitigating Problematic Content in Digital Sphere">
+  <img src="../images/researchlines-2.jpg" alt="Overview of My Research on Mitigating Problematic Content in Digital Sphere">
+</div>
 
 <!-- Specifically, I'm interested in understanding and mitigating the unwanted effects of dataset biases on downstream machine learning applications. I'm also interested in applying machine learning for social scientific purposes. My research often involves building NLP solutions motivated by a social psychological research question to gain insight into our online behavior. -->
 
